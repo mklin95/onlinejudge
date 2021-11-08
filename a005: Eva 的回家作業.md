@@ -1,6 +1,8 @@
 # a005: Eva 的回家作業
 [a005: Eva 的回家作業](https://zerojudge.tw/ShowProblem?problemid=a005)
 
+反正總共5項，列5個變數不就好了
+
 ~~~ cpp
 #include <iostream>
 using namespace std;
